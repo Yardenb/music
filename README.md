@@ -1,5 +1,5 @@
 # music
-Page: https://yardenb.github.io/music/
+Page: https://yardenb.github.io/
 # Vue.js, Veux, SCSS SPA, written as "mobile first". Using youtube API
 
 ## Project setup
